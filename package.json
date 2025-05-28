@@ -11,6 +11,7 @@
   "dependencies": {
      "@whiskeysockets/baileys": "github:MR-LAKIYA/Baileys",
     "@adiwajshing/keyed-db": "^0.2.4",
+     "jimp": "0.16.1",
     "@distube/ytdl-core": "^4.16.4",
     "denethdev-ytmp3":"1.0.3",
     "pino": "^9.6.0",
