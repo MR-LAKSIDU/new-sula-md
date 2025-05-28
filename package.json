@@ -11,12 +11,12 @@
   "dependencies": {
      "@whiskeysockets/baileys": "github:MR-LAKIYA/Baileys",
     "@adiwajshing/keyed-db": "^0.2.4",
-     "jimp": "0.16.1",
     "@distube/ytdl-core": "^4.16.4",
     "denethdev-ytmp3":"1.0.3",
     "pino": "^9.6.0",
     "pm2": "^5.4.3",
     "util": "^0.12.4",
+    "jimp": "0.16.1",
     "express": "latest",
     "axios": "^1.2.5",
     "file_size_url": "^1.0.6",
